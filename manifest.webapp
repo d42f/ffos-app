@@ -1,0 +1,15 @@
+{
+  "name": "Cloudike",
+  "description": "Cloud storage of unlimited size",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/assets/logo.png",
+    "128": "/assets/logo.png"
+  },
+  "developer": {
+    "name": "ASD Technologies",
+    "url": "https://cloudike.com"
+  },
+  "default_locale": "en",
+  "type": "privileged"
+}

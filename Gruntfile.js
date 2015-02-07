@@ -626,6 +626,8 @@ module.exports = function ( grunt ) {
         });
       }
     });
+
+    grunt.file.copy('manifest.webapp', this.data.dir + '/manifest.webapp');
   });
 
   /**
