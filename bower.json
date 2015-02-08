@@ -2,11 +2,18 @@
   "name": "ng-boilerplate",
   "version": "0.3.2",
   "devDependencies": {
+    "modernizr": "*",
+    "underscore": "*",
+    "jquery": "~1.11",
     "angular": "~1.2",
     "angular-mocks": "~1.2",
-    "bootstrap": "~3.1",
-    "angular-bootstrap": "~0.10.0",
-    "angular-ui-router": "~0.2"
+    "bootstrap": "~3.3",
+    "angular-bootstrap": "~0.11",
+    "angular-ui-router": "~0.2",
+    "restangular": "~1.4",
+    "angular-file-upload": "~1.1",
+    "ng-flow": "~2.5",
+    "angular-once": "~0.1"
   },
   "dependencies": {}
 }
